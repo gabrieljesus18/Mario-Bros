@@ -10,3 +10,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 <img src="https://github.com/gabrieljesus18/Mario-Bros/blob/main/img/Captura%20de%20tela%202025-02-06%20111203.png?raw=true" />
+<img src="https://github.com/gabrieljesus18/Mario-Bros/blob/main/img/Captura%20de%20tela%202025-02-06%20111301.png?raw=true" />
+<img src="" />
+
+
